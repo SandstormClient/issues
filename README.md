@@ -6,4 +6,5 @@ Inside the [issues](https://github.com/SandstormClient/issues/issues) tab, click
 
 ## Important notes
 Submitting a blank / uncomplete issue will get you blacklisted from submitting issues in the future.
+
 A video of the bug you reported or the feature you've requested will be incredibly helpful for us to implement or fix, and is more than welcome.
